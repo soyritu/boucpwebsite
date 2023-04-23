@@ -58,13 +58,13 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/boucp/boucp-website'
+    url: 'https://github.com/boucp/boucpwebsite'
     content_dir: content
     branch: main
   feedback:
     responses:
-      positive: 'ধন্যবাদ! [কোন উন্নয়ন করার আছে?](https://github.com/boucp/boucp-website/issues/new).'
-      negative: 'দুঃখিত। [দয়া করে জানাবেন কিভাবে সংশোধন করতে পারি](https://github.com/boucp/boucp-website/issues/new).'
+      positive: 'ধন্যবাদ! [কোন উন্নয়ন করার আছে?](https://github.com/boucp/boucpwebsite/issues/new).'
+      negative: 'দুঃখিত। [দয়া করে জানাবেন কিভাবে সংশোধন করতে পারি](https://github.com/boucp/boucpwebsite/issues/new).'
   comment:
     provider: giscus
     giscus:
