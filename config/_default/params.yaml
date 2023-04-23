@@ -1,0 +1,87 @@
+appearance:
+  theme_day: strawberry
+  #theme_night: mr robot
+  font: custom
+  font_size: L
+
+# SEO
+
+marketing:
+  seo:
+    site_type: Project
+    local_business_type: ''
+    org_name: ''
+    description: ''
+    twitter: ''
+  analytics:
+    google_analytics: 'UA-264558027-1'
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: false
+    show_search: false
+    highlight_active_link: true
+
+footer:
+  copyright:
+    notice: '© {year} boucp'
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: false
+      allow_commercial: false
+
+# Localization
+
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+
+# Site features
+
+features:
+  syntax_highlighter:
+    theme_light: dracula
+  # theme_dark: 
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/boucp/boucp-website'
+    content_dir: content
+    branch: main
+  feedback:
+    responses:
+      positive: 'ধন্যবাদ! [কোন উন্নয়ন করার আছে?](https://github.com/boucp/boucp-website/issues/new).'
+      negative: 'দুঃখিত। [দয়া করে জানাবেন কিভাবে সংশোধন করতে পারি](https://github.com/boucp/boucp-website/issues/new).'
+  comment:
+    provider: giscus
+    giscus:
+      repo: "boucp/comment"
+      repo_id: "R_kgDOJXQHcw"
+      category: "General"
+      category_id: "DIC_kwDOJXQHc84CVzfm"
+    disqus:
+      shortname: ''
+      show_count: false
+    commento:
+      url: ''
+    
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: "NQW9U50IZV"
+      api_key: "8cd23646aafef49b1b1dfbff8b91c6e9"
+      index_name: "boucp"
+      show_logo: true
