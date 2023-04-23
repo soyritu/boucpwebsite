@@ -1,0 +1,11 @@
+# Font style metadata
+name = "custom"
+
+# Optional Google font URL
+google_fonts = "family=Josefin+Sans:wght@400;700&family=Poppins:wght@400;700&family=Noto+Sans+Bengali:wght@400;700"
+
+# Font families
+heading_font = "Josefin Sans"
+body_font = "Poppins"
+nav_font = "Poppins"
+mono_font = "Poppins"
