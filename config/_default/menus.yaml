@@ -1,4 +1,4 @@
 main:
-  - name: Docs
+  - name: ডকুমেন্টস
     url: docs/
     weight: 20
