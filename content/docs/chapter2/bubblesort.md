@@ -1,7 +1,8 @@
 ---
 title: বাবল সর্ট
 linktitle: বাবল সর্ট - Bubble Sort
-weight: 10
+weight: 20
+type: book
 ---
 
 বাবল সর্ট সবচেয়ে সরল সর্টিং মেথড। এর নামকরন মূলত 
