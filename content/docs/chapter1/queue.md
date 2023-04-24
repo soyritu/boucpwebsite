@@ -1,6 +1,8 @@
 ---
 title: কিউ
 linktitle: কিউ - Queue
+type: book
+weight: 40
 ---
 ## প্রকারভেদ
 - কিউ
