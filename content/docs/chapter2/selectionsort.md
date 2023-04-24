@@ -2,7 +2,7 @@
 title: সিলেকশন সর্ট
 linktitle: সিলেকশন সর্ট - Selection Sort
 type: book
-weight: 20
+weight: 30
 tags: ["সর্ট","সর্টিং"]
 ---
 বাবল সর্টের মতোই সিলেকশন সর্ট ইটারেটিভ ওয়েতে অ্যারে
